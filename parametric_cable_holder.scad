@@ -1,15 +1,9 @@
-//
-// parametric cable hook holder for OpenSCAD - (c) 2024 Erno Rigo <erno@rigo.info>
 /*
-Changelog:
+Parametric cable hook holder for OpenSCAD
+CC BY-NC-SA (c) 2024 Erno Rigo <erno@rigo.info>
+See README for more information and changelog.
 
-v1.0 (2024-07-11) 
-    - initial release
-v1.1 (2024-07-13)
-    - fix final output rotation
-    - add support for different base styles
-    - add automatic failsafe for base_radius
-    - add 1mm rounded edges to the holder arm
+Version 1.2 (2014-07-13)
 */
 
 /* [Cable Holder Arm parameters] */
@@ -225,4 +219,5 @@ module assembly() {
     }
 }
 
+// do the assembly
 assembly();
