@@ -29,7 +29,7 @@ This customizable cable management arm is a versatile and practical solution for
 
 ## Contribute
 
-- Pull requests are welcome on [GitHub](https://github.com/mcree/Cable-management)
+- Pull requests are welcome on [GitHub](https://github.com/mcree/parametric-cable-holder)
 - Comment, like, subscribe, publish your makes
 
 ## Changelog
